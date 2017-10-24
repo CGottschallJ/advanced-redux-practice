@@ -11,7 +11,7 @@ import TasksPanel from "./components/TasksPanel";
 import Tickets from "./components/Tickets";
 import TransactionsPanel from "./components/TransactionsPanel";
 
-//hi
+
 function App(props) {
   return (
     <div>
